@@ -2,8 +2,6 @@
     <img src="so_longm.png" alt="Badge Name">
 </p>
 
-# SO_LONG Project README
-
 ## Overview
 
 The SO_LONG project is a classic 2D grid-based game, developed in C, as part of the 42 school curriculum. The game involves a player navigating through a map, collecting items, and avoiding or overcoming obstacles to reach the exit. This README outlines the project's structure, including the bonus features implemented.
